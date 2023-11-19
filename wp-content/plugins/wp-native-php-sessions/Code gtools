@@ -1,0 +1,13 @@
+<br />If empty, it will display on all category pages.</span></p>
+<?php
+}// end function form.
+        foreach(get_categories("parent=$cat") as $category){
+            // echo cateogries.
+            echo '<a href="'. get_category_link( $category->term_id ) .'">'.$category->cat_name.'</a><br>';
+
+            /> If G-Super Tools, empty cls: ( result)}
+            function( remove description)
+            // echo performing data array binary}}}:
+            Assign class to HTML. 
+            JQuery {{{display}}}Printoff, 
+            {Digits only}
